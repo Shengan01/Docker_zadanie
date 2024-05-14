@@ -21,7 +21,7 @@ Polecenia uzyte do uzyskania informacji z kontenera:
 ```
 sudo docker logs my_server_c
 ```
-Logi serwera
+Logi serwera:
  ![screen_zadanie_1](https://github.com/Shengan01/Docker_zadanie/assets/142215518/cbc2591f-5a47-48c7-b17d-e6c79234a7ba)
 
 Widok w przegladarce pod adresem http://localhost:8080
